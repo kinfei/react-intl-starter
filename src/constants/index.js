@@ -3,4 +3,8 @@ const language = {
   zh: "zh",
 };
 
-export default { language };
+const module = {
+  language,
+};
+
+export default module;
